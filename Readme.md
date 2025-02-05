@@ -8,7 +8,7 @@ Microsoft Learn provides you with free online training and learning paths for di
 
 ### [2. Connect Your Services Together (4 modules)](https://github.com/MarkPillon/AZ-204/tree/main/2.%20ConnectYourServicesTogether)
 
-### 3. Store Data in Azure (5 modules)
+### 3. [Store Data in Azure (5 modules)](https://github.com/MarkPillon/AZ-204/tree/main/3.%20StoreDataInAzure)
 
 ### 4. Deploy a Website with Azure Virtual Machines (4 modules)
 
